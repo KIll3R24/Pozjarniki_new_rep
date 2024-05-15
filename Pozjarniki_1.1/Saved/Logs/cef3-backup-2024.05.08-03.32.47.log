@@ -1,0 +1,22 @@
+[0506/201030.898:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[0506/201031.758:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0506/201031.758:ERROR:entry_impl.cc(1075)] No file for c1030588
+[0506/201031.758:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.758:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.758:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.758:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.758:ERROR:entry_impl.cc(1075)] No file for c10300e2
+[0506/201031.759:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.759:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.759:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.759:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.759:ERROR:entry_impl.cc(1075)] No file for c1030586
+[0506/201031.759:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.759:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201031.760:WARNING:storage_block-inl.h(146)] Failed data load.
+[0506/201034.887:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0506/201100.176:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 497
+[0506/201100.185:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 505
+[0506/201231.090:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0506/222740.832:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0506/222937.795:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
