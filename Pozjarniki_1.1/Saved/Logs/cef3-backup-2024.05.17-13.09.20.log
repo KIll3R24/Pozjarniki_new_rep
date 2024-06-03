@@ -1,2 +1,0 @@
-[0517/230719.692:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
-[0517/230920.501:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
