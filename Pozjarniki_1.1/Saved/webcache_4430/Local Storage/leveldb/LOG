@@ -1,5 +1,3 @@
-2024/06/03-22:16:02.016 978 Reusing MANIFEST C:/Users/nikit/Documents/Unreal Projects/Pozjarniki_new_rep/Pozjarniki_new_rep/Pozjarniki_1.1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/06/03-22:16:02.027 978 Recovering log #3
-2024/06/03-22:16:02.027 978 Level-0 table #3: started
-2024/06/03-22:16:02.032 978 Level-0 table #3: 19948 bytes OK
-2024/06/03-22:16:02.035 978 Delete type=0 #3
+2024/06/04-09:09:48.289 55cc Reusing MANIFEST C:/Users/nikit/Documents/Unreal Projects/Pozjarniki_new_rep/Pozjarniki_new_rep/Pozjarniki_1.1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/06/04-09:09:48.290 55cc Recovering log #4
+2024/06/04-09:09:48.290 55cc Reusing old log C:/Users/nikit/Documents/Unreal Projects/Pozjarniki_new_rep/Pozjarniki_new_rep/Pozjarniki_1.1/Saved/webcache_4430\Local Storage\leveldb/000004.log 
